@@ -65,6 +65,6 @@ npm start
 
 📬 Contact
 Mohammed Nazel
-📧 Email: [mohammednazel123@gmail.com]
 📧 [Email Me](mailto:mohammednazel123@gmail.com)
+
 
