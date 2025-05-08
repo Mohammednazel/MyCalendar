@@ -21,3 +21,6 @@ This is a responsive and interactive calendar application built with React and T
 Click here to view the live demo:  
 [🔗 Live Demo](https://Mohammednazel.github.io/MyCalendar/)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://Mohammednazel.github.io/MyCalendar/)
+
+
