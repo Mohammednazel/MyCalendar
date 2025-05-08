@@ -49,3 +49,22 @@ git clone https://github.com/Mohammednazel/MyCalendar.git
 cd MyCalendar
 npm install
 npm start
+
+📂 Folder Structure
+
+📁 src
+ ┣ 📁 components
+ ┃ ┣ 📄 Calendar.jsx
+ ┃ ┣ 📄 DayCell.jsx
+ ┃ ┗ 📄 Header.jsx
+ ┣ 📁 data
+ ┃ ┗ 📄 events.json
+ ┣ 📄 App.jsx
+ ┣ 📄 index.css
+ ┗ 📄 main.jsx
+
+📬 Contact
+Mohammed Nazel
+📧 Email: [mohammednazel123@gmail.com]
+📧 [Email Me](mailto:mohammednazel123@gmail.com)
+
