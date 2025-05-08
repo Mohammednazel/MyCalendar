@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Final Project Presentation",
+    "startTime": "2025-05-08T09:00:00",
+    "endTime": "2025-05-08T10:30:00",
+    "color": "#FBBF24"
+  },
+  {
+    "title": "Campus Placement Interview",
+    "startTime": "2025-05-08T11:00:00",
+    "endTime": "2025-05-08T12:30:00",
+    "color": "#60A5FA"
+  },
+  {
+    "title": "Lab Submission Deadline",
+    "startTime": "2025-05-08T11:12:00",
+    "endTime": "2025-05-08T11:30:00",
+    "color": "#A78BFA"
+  },
+  {
+    "title": "Group Study - Compiler Design",
+    "startTime": "2025-05-12T11:15:00",
+    "endTime": "2025-05-08T13:00:00",
+    "color": "#34D399"
+  },
+  {
+    "title": "Hackathon (Online)",
+    "startTime": "2025-05-14T09:00:00",
+    "endTime": "2025-05-09T18:00:00",
+    "color": "#A78BFA"
+  },
+  {
+    "title": "Mini Project Review",
+    "startTime": "2025-05-09T10:00:00",
+    "endTime": "2025-05-09T11:30:00",
+    "color": "#F472B6"
+  },
+  {
+    "title": "Internship Call with Mentor",
+    "startTime": "2025-05-09T10:30:00",
+    "endTime": "2025-05-09T11:00:00",
+    "color": "#4ADE80"
+  },
+  {
+    "title": "Resume Review Session",
+    "startTime": "2025-05-09T15:30:00",
+    "endTime": "2025-05-09T16:30:00",
+    "color": "#FB7185"
+  }
+]
