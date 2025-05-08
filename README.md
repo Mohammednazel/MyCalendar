@@ -1,26 +1,51 @@
-# React + Vite
+# 📅 MyCalendar – Interactive Event Calendar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![MyCalendar Banner](https://img.shields.io/badge/React-Calendar-blue?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-green?style=for-the-badge)](https://Mohammednazel.github.io/MyCalendar/)
 
-Currently, two official plugins are available:
+Welcome to **MyCalendar**, a modern, responsive calendar web app built using **React** and **Tailwind CSS**. This project allows users to view monthly calendars, browse events, and visualize overlapping/conflicting events with clean tooltips and color coding.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [Click here to view the Live Demo](https://Mohammednazel.github.io/MyCalendar/)
 
+---
 
-# My Calendar Project
+## ✨ Features
 
-This is a responsive and interactive calendar application built with React and Tailwind CSS.
+- 📆 **12-Month Scrollable View** – View a full year of months with smooth scrolling.
+- 🧭 **Sticky Navigation Header** – Dropdown to jump to specific months and navigate by year.
+- 🗓️ **Day Cells with Tooltips** – Hover or click on any date to view event details.
+- 🎨 **Color-Coded Events** – Distinct color tags for overlapping/conflicting events.
+- 🖥️ **Responsive UI** – Adapts beautifully to desktop, tablet, and mobile screens.
+- ⚡ **Smooth Scroll to Today** – Quickly return to the current month.
 
-## 🚀 Live Demo
+---
 
-Click here to view the live demo:  
-[🔗 Live Demo](https://Mohammednazel.github.io/MyCalendar/)
+## 🧠 How It Works
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://Mohammednazel.github.io/MyCalendar/)
+- The app renders the next 12 months from the current date.
+- Events are fetched from a local JSON file.
+- Each day highlights relevant events.
+- If multiple events overlap, conflicts are shown clearly with separate colors and tooltips.
 
+---
 
+## 🛠️ Technologies Used
+
+- **React** – Front-end JavaScript library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Day.js** – Lightweight date library for manipulating dates
+- **HTML5 + CSS3 + JSX**
+
+---
+
+## 🚀 Getting Started (Optional for Local Setup)
+
+```bash
+git clone https://github.com/Mohammednazel/MyCalendar.git
+cd MyCalendar
+npm install
+npm start
